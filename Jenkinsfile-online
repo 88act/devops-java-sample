@@ -11,11 +11,11 @@ pipeline {
 
     environment {         
         DOCKER_CREDENTIAL_ID = 'dockerhub-id'
-        GITHUB_CREDENTIAL_ID = 'github-id'
+        GITHUB_CREDENTIAL_ID = 'git-88act'
         KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
         REGISTRY = 'docker.io'
         DOCKERHUB_NAMESPACE = 'fzqk9'
-        GITHUB_ACCOUNT = '88act'
+        GITHUB_ACCOUNT = 'fztdxsxb999@gmail.com'
         APP_NAME = 'demo-project'
         SONAR_CREDENTIAL_ID = 'sonar-token'
         
